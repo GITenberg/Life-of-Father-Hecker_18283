@@ -1,0 +1,30 @@
+_repo: Life-of-Father-Hecker_18283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elliott, Walter
+    birthdate: 1842
+    deathdate: 1928
+    gutenberg_agent_id: '7920'
+    url: http://www.gutenberg.org/2009/agents/7920
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Elliott
+description: ''
+gutenberg_issued: '2006-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hecker, Isaac Thomas, 1819-1888'
+- !lcsh 'Paulist Fathers -- United States -- Biography'
+- !lcsh 'Catholic Church -- United States -- History -- 19th century'
+- !lcc 'BX'
+- !lcsh 'Catholic converts -- United States -- Biography'
+title: Life of Father Hecker
+url: http://www.gutenberg.org/ebooks/18283
